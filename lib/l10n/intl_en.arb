@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appName": "Restaurant Management",
+  "restaurants": "Restaurants",
+  "connectTimeout": "Connect timeout",
+  "receiveTimeout": "Receive timeout",
+  "sendTimeout": "Send timeout",
+  "pleaseCheckYourInternetConnection": "Please check your internet connection.",
+  "invalidCredentials": "Invalid credentials",
+  "cancelled": "Cancelled",
+  "connectionTimedOut": "The connection has timed out. Please try again",
+  "connectionProblem": "There are some problems with the connection. Please try again",
+  "restaurantEmpty": "There is no restaurant.",
+  "oops": "OOPs...",
+  "close": "Close",
+  "tryAgain": "Try again",
+  "openTime": "Operating Hours"
+}
